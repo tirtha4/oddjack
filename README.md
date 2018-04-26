@@ -7,7 +7,7 @@
 * If the number is even, the player will receive double the bet value.
 * If the number is odd, the player loses the bet.
 
-## How To Play()
+## How To Play
 --You can use Remix(JavaScript VM)--
 * Load some Ethereum to the new contract instance.
 * Place your bet value greater than 0.01 ether.
